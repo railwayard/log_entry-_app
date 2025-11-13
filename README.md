@@ -1,1 +1,3 @@
-# log_entry-_app
+# Log Entry App
+
+A simple backend application built with Node.js, Express, and MongoDB...
